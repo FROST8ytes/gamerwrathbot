@@ -1,0 +1,17 @@
+{
+  "name": "gamerwrathbot",
+  "version": "1.0.0",
+  "description": "A Discord bot that returns a list of cursed words/phrases based on the specified language.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ammar Farhan Mohamad Rizam",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "eslint": "^8.27.0"
+  }
+}
