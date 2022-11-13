@@ -1,0 +1,34 @@
+{
+  "malay": {
+    "words": ["babi", "anjing", "mak kau hijau", "pukimak", "bongok", "bengap"],
+    "aliases": ["melayu", "malay", "malaysia", "singapore", "brunei"]
+  },
+  "indonesian": {
+    "words": ["kontol", "tolol", "goblok/goblog"],
+    "aliases": ["indonesia", "javanese", "java", "indonesian"]
+  },
+  "thai": {
+    "words": ["ai hiya", "meng huay"],
+    "aliases": ["thailand", "thai"]
+  },
+  "tagalog": {
+    "words": ["putang ina mo", "bobo"],
+    "alias": ["philipines", "filipino", "tagalog"]
+  },
+  "tamil": {
+    "words": ["punde", "tevedia", "naii", "karupe pucii"],
+    "alias": ["tamil"]
+  },
+  "cantonese": {
+    "words": ["cibai", "pentan", "kanina", "mader"],
+    "alias": ["cantonese", "taiwan", "hong kong"]
+  },
+  "mandarin": {
+    "words": ["wo cao ni ma"],
+    "alias": ["mandarin", "china"]
+  },
+  "hindi": {
+    "words": ["ghandu", "bhenchod", "maderchod", "pagelokia"],
+    "alias": ["india", "hindi"]
+  }
+}
